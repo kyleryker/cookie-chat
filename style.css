@@ -7,6 +7,7 @@ body {
   height: 95%;
   width: 100%;
   font-family: sans-serif;
+  background-color: lightgray;
 }
 
 .main-container {
@@ -27,6 +28,8 @@ body {
 }
 
 p{
+  background-color: lightblue;
+  border: 2px solid midnightblue;
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
